@@ -1,0 +1,15 @@
+html,body,#chart{
+  width:100%;
+  height:100%;  
+  margin:0;
+  padding: 0;
+ }
+ 
+ #chart > svg{  
+  display:block;
+ }
+
+button, .btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
